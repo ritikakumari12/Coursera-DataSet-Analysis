@@ -9,5 +9,5 @@ $ git clone https://github.com/ritikakumari12/Coursera-DataSet-Analysis
  pip install pandas numpy matplotlib seaborn
  
  # Working
- After opening, run the following command in the terminal.
+ After opening, run the following command in the terminal.<br />
  python code_1.py
